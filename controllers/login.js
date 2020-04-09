@@ -1,2 +1,4 @@
 //loginbranch
-class LoginClass {}
+class LoginClass {
+  constructor() {}
+}
