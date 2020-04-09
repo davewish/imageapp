@@ -1,2 +1,2 @@
 //loginbranch
-class Login {}
+class LoginClass {}
