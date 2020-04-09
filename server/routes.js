@@ -2,6 +2,7 @@ const express = require("express");
 let router = express.Router();
 const home = require("../controllers/home");
 const image = require("../controllers/image");
+//this is for testinng
 module.exports = function(app) {
   router.get("/", home.index);
   router.get("/images/:image_id", image.index);
